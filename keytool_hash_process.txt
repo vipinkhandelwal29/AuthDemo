@@ -1,0 +1,5 @@
+keytool -exportcert -alias androiddebugkey -keystore "C:\Users\Vips.k\.android\debug.keystore" | openssl sha1 -binary | openssl base64
+YJlL+pSXwI3vzSpYuK3qe3flVjk=
+
+keytool -list -v \
+-alias <your-key-name> -keystore <path-to-production-keystore>

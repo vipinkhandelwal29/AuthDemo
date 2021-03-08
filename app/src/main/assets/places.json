@@ -1,0 +1,787 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLTV4SbicdUfWCKOBAlyT_gASCGVLB9wu3g4LFjsFNo2dJAeVood6-Lyj_n6g5HQ8TToNB8JH47Nr_Q_PBMeO8Nz4tRttVS2pK_cKEdbkqFCx11-SHwEIkXBFnAPrUApL6EfugsyakufwZ2MROeNkgMOcH7HXDEnBeo1E7klxcRXIZ7zHU9u-lwKax9sVg3nMwvG_u1Nm8eFAFS4UMxh59QnZfDUZR7Nb1xei8gOFuP0VrDc6jXpwB0FABE8hbKyLeeaGxny_3B2tiSeXw6as6rSGAOfvFweuZhjDT2Wm0eF0-VVTIZg66iuOPd_RIRo_-2gEbES0TslsTgMGVzWpK1hEDRZuiM5eecNYLms4SJbs-pXBM56QSJad8F-8fvCCQiPSU2P9rhDvMr2YMORMGEXHdHB4iWNNLSJtyGyGrK",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.022505,
+               "lng" : 72.5713621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1863814,
+                  "lng" : 72.76960269999999
+               },
+               "southwest" : {
+                  "lat" : 22.8541054,
+                  "lng" : 72.3898825
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "Ahmedabad",
+         "photos" : [
+            {
+               "height" : 937,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116646399187456614940\"\u003eKashyap Modi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJoEqsYnAXiIbVeZAAq1SVxKGMRgObHIgQcWl201xIwtpRx-r1CXZcoyhkMsQsl-EmbdW9Ev7DK47-h9fll_1bHpCSMQ2JeeDzvIZxe5qnlgpRpngpEPukEhbi1LR2rn7uKkSKd4whQGlXIizg7DnnyT9hKckKhaPWKUwsyszdpBVcC",
+               "width" : 2367
+            }
+         ],
+         "place_id" : "ChIJSdRbuoqEXjkRFmVPYRHdzk8",
+         "reference" : "ChIJSdRbuoqEXjkRFmVPYRHdzk8",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0278667,
+               "lng" : 72.51212869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02910873029149,
+                  "lng" : 72.5136860302915
+               },
+               "southwest" : {
+                  "lat" : 23.02641076970849,
+                  "lng" : 72.51098806970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Courtyard by Marriott Ahmedabad",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 641,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112697432279026792048\"\u003eCourtyard by Marriott Ahmedabad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKsKhcG2R9EH16eALv7QYG2ttgQkJKEg-HPlr_BVP15AU0gn610s2XZUq0P4DaGKTHJftusIlxdRxNBIkmKUg9ihGpLj6eZ7JSW9FzzReIi4FOneF-2BAwsZo5-gqdqgvnrhBj8LhXD1ZwZf49IxkpfCDR6o80lGqnJKMfikHhR_TC0",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJoTAo2zabXjkRI4yEnHBwLro",
+         "plus_code" : {
+            "compound_code" : "2GH6+4V Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GH6+4V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJoTAo2zabXjkRI4yEnHBwLro",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14623,
+         "vicinity" : "Ramdev Nagar Cross Road, Satellite Road, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.04248519999999,
+               "lng" : 72.5143736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04383188029151,
+                  "lng" : 72.51563643029151
+               },
+               "southwest" : {
+                  "lat" : 23.0411339197085,
+                  "lng" : 72.5129384697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "The Grand Bhagwati",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115877708252012418693\"\u003edarshana patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLW7kmdiz6AuZrKA8FgsqoEKylXAI6ifWKesEkH8_iSdaBLAxxYEnW0WH7ZxbN-Z1R-IaYuCBh7gekvOTU9RYcS07WLeYTopEBnDMRwMgDMSSlFK0fDhxZLUJcquY8IWt6hdVHD-R0tFqNnaVNPFqgPwqmol5wXz0Uim0bWqFPnxAJe",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJD9GOd06bXjkRAmWyMO0o4uk",
+         "plus_code" : {
+            "compound_code" : "2GR7+XP Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GR7+XP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJD9GOd06bXjkRAmWyMO0o4uk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8302,
+         "vicinity" : "opp. Gurudwara, S.G. Road, opp. Gurudwara, NH 8C, Bodakdev, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0392747,
+               "lng" : 72.53054469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0408429302915,
+                  "lng" : 72.5318221802915
+               },
+               "southwest" : {
+                  "lat" : 23.0381449697085,
+                  "lng" : 72.52912421970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hyatt Ahmedabad",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4005,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108348858733202716412\"\u003eHyatt Ahmedabad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJoEiBP901HLYSHvKR7iE9KsLmRBycpd-Vi8XfUFU8CaSLDlhwMbCJ0HTnznrG8fai7zzhQhIcxoMLdbpKELfunyvKnbufBAolohObPNNKJkO9GSbd-wdjWRc0gEydMcx5H5aeZFjWMdKQzs4aTn81gSr_0w5ym8u7IrFB6uxEYdzrR",
+               "width" : 6007
+            }
+         ],
+         "place_id" : "ChIJewSoyIqEXjkRy54T8s26H7Q",
+         "plus_code" : {
+            "compound_code" : "2GQJ+P6 Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GQJ+P6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJewSoyIqEXjkRy54T8s26H7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5632,
+         "vicinity" : "near Vastrapur Lake, Plot 216, Town Plan Scheme 1, near Vastrapur Lake, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.036726,
+               "lng" : 72.51587359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0381433802915,
+                  "lng" : 72.51725678029152
+               },
+               "southwest" : {
+                  "lat" : 23.03544541970849,
+                  "lng" : 72.51455881970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "IDBI Bank Bodakdev branch",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112452541690010836308\"\u003eBhavik Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI85fXxXNIt3dtBbE--fT5bWA2VKiqixgRzBYlcnUDTdgMk5EwMMVXConR7gIXHKBng4QA3ZtBtrIipF9XLis9t3bcAoYoYCl30O7ywPfm3LlP0AC8K9Oyt_eCpCsuccb6mKxT3t6HHr8TTeHFEZPnvuPjvN5g0r9YG20PdpTvVQV5u",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJq6qq6kybXjkRjQdElU9uQds",
+         "plus_code" : {
+            "compound_code" : "2GP8+M8 Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GP8+M8"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJq6qq6kybXjkRjQdElU9uQds",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "near Gormo Hotel, 23-25, Rudra Square, Judges Bunglow Road, Bodakdev, near Gormo Hotel, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0397712,
+               "lng" : 72.5291369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0410933302915,
+                  "lng" : 72.5304821302915
+               },
+               "southwest" : {
+                  "lat" : 23.0383953697085,
+                  "lng" : 72.5277841697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "British Council",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100866238810582133827\"\u003eBritish Council Library\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKqFtC9sEeJzbVA2C-zfUUPeud8qQmcn9pI6LWCjys_46RT4wAYiJnEMff48hHn6c17PQSK6fD6dyErhwF3rCJ4bC8kYnsKxkpqNGCCXPqwINtkSoJoBYuZdRlTFYtYRyTvQ5NLr_d2IwKebhgZgMIr5V8RNuQZWQ5rJ_lYML8DmwEu",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJo43dS_qEXjkRtlxefEvkBts",
+         "plus_code" : {
+            "compound_code" : "2GQH+WM Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GQH+WM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJo43dS_qEXjkRtlxefEvkBts",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 152,
+         "vicinity" : "A 503-506, 5th Floor, Amrapali Lake View Tower Near Vastrapur Lake, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0369406,
+               "lng" : 72.52272049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0383211302915,
+                  "lng" : 72.52399518029149
+               },
+               "southwest" : {
+                  "lat" : 23.03562316970849,
+                  "lng" : 72.52129721970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Page One Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 832,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108437551010103596819\"\u003eBakul Mehta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLQKtpCMx4PkNh_zJiJ8R1RcbrZeZdDmQvZ7e_GFacVPRlXwwDV4yJw-d8sTqQJMjH6e0_lQ2uXCslXQ7RZpc3PccMxGrvJrdMTVDI4CzTX19BFrafVKtC0QIUMDoeDHUa0A2aPgi93vUZWRqrEI-zU8nssG2ws0OAc6XdHbRbZtE5G",
+               "width" : 1248
+            }
+         ],
+         "place_id" : "ChIJe8ad97SEXjkRGwE5RWAWVPM",
+         "plus_code" : {
+            "compound_code" : "2GPF+Q3 Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GPF+Q3"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJe8ad97SEXjkRGwE5RWAWVPM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1874,
+         "vicinity" : "Sandesh Press Road Nr. Jivabhai Tower, Opp. Premier Apartment, Bodakdev, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.037688,
+               "lng" : 72.52326099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0390974302915,
+                  "lng" : 72.5245031802915
+               },
+               "southwest" : {
+                  "lat" : 23.0363994697085,
+                  "lng" : 72.52180521970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "OYO 1776 Page One",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 428,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101923858642562321317\"\u003eOYO 1776 Page One\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKkskFk11e6RxCDlvvHq2jiKxx38LcvRZ7R5C8yEeIOXNBn9aCrHe91ffWFLnAr28A60tj4f5sn4Ci9UEcH-pDODgrqHSP8anZ59uZ8R8iJT1RlaGyXpV5IcytVNUY0tXvlyQvsf-lJrICtGglVWZd_5ZwvXXDB-1JRCXp3vZnJmEb1",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJw8qf97SEXjkRQ686ibvwans",
+         "plus_code" : {
+            "compound_code" : "2GQF+38 Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GQF+38"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJw8qf97SEXjkRQ686ibvwans",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Near Jivabhai tower, Opposite Premier Apartment Vastrapur, Bodakdev, Sandesh Press Road, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.047086,
+               "lng" : 72.5309005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0479389802915,
+                  "lng" : 72.5323082802915
+               },
+               "southwest" : {
+                  "lat" : 23.0452410197085,
+                  "lng" : 72.5296103197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+         "name" : "Carnival Cinemas",
+         "photos" : [
+            {
+               "height" : 3366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110284872422010566804\"\u003eJay Bamroliya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLcSAJwzCgmdWmm12JLkAusPa35LkoRGCoMjlcQik256Q_tbvF3_nqYTMwsRrHqmAt8kPVriqZ_cEpPc0dEqxMtLuDiNWGVY12JJ-xIVBp8YnkAQxgLD2FGPMJvN3cRf6bkisdLnXDjPvW5GOYVf1Izkng_mddHK0-SKrt-JDNPnCja",
+               "width" : 4751
+            }
+         ],
+         "place_id" : "ChIJvbd26K-EXjkR0lztzzhZn2o",
+         "plus_code" : {
+            "compound_code" : "2GWJ+R9 Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GWJ+R9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJvbd26K-EXjkR0lztzzhZn2o",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5467,
+         "vicinity" : "3 Himalaya Mall Drive In Road Memnagar Ahmedabad Gujarat 380054 IN, Drive In Road, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0437082,
+               "lng" : 72.5289083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04501423029151,
+                  "lng" : 72.5303702302915
+               },
+               "southwest" : {
+                  "lat" : 23.0423162697085,
+                  "lng" : 72.52767226970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "The Park Residency Hotel - Ahmedabad",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115273426823768198885\"\u003eSanjay Yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKtnqP6KceVxKPf4tOZKo_btPvACSmFUTf-pLmeTb49YeiQ795vtmwnmnjwtu4zQutTv__9pumKZomCclc1JkfzXYu8kLk3-eXzYWvje4NXNzA9ai0vEqvQvptzGNFDXtwODsT6q9uZz3r1TzNgtTHMcXcqfYSNMBc2qsuDFSZWB5h1",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJX8IZrLGEXjkRmB9W6ErMuq4",
+         "plus_code" : {
+            "compound_code" : "2GVH+FH Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GVH+FH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJX8IZrLGEXjkRmB9W6ErMuq4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 590,
+         "vicinity" : "542, 13, Sunrise Park Road, Sunrise Park, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0242846,
+               "lng" : 72.5290406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0257151802915,
+                  "lng" : 72.53051343029151
+               },
+               "southwest" : {
+                  "lat" : 23.0230172197085,
+                  "lng" : 72.52781546970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "T.I.M.E.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106842622379870532429\"\u003eT.I.M.E.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkK60vKyOh9-0EnibkuDE1JeEnuCZaPiSZoocc9z83lqdK5Z8uuxR_oq-yaIwQKiTSKikJ3jsfZ9zuoY5VmVrv8miuRwXWyla6xSMVqvDSiDFoGAhjrArkphI5W4kZaSYHFdDHuSNqZaPLILnzSw3Fz4lnnRiDL6PDKJO68wDU1_8J",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJM2-FLvaEXjkRVCDNY5Egy6w",
+         "plus_code" : {
+            "compound_code" : "2GFH+PJ Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GFH+PJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJM2-FLvaEXjkRVCDNY5Egy6w",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 114,
+         "vicinity" : "opp. Sita Tower, 301, 3rd Floor, Akshar Complex, opp. Sita Tower, Satellite, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.025621,
+               "lng" : 72.5251765
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02707008029151,
+                  "lng" : 72.52655213029149
+               },
+               "southwest" : {
+                  "lat" : 23.0243721197085,
+                  "lng" : 72.52385416970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Campus",
+         "photos" : [
+            {
+               "height" : 774,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113706393014595224339\"\u003eHotel Campus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLEaFLTlCOlHyCfOS2wFLd9uenE2p6F0CXkYWXLHZRsYh3moEMiFp34zM9NsW2L6I_OfUMn5mr1tnCWbf7OW4NMFK9ZNLI1SORBFFkINj1SCItGSXl1lTHSB2i9DNEVxSVSf3E9aQY4G1Q0h8_VEV8fzSgJ3-HuByBwtQMM-whuR0Kz",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJIUPJys2EXjkR-qCUDIXOAoA",
+         "plus_code" : {
+            "compound_code" : "2GGG+63 Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GGG+63"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJIUPJys2EXjkR-qCUDIXOAoA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 126,
+         "vicinity" : "opposite Star Bazaar, 1st Floor, Manas Complex, Satellite Road, Jodhpur Char Rasta, Satellite, opposite Star Bazaar, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0369014,
+               "lng" : 72.52713609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0381637802915,
+                  "lng" : 72.5285026302915
+               },
+               "southwest" : {
+                  "lat" : 23.0354658197085,
+                  "lng" : 72.52580466970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sigma",
+         "place_id" : "ChIJd8gpy7eEXjkRyvge6ebzjrs",
+         "plus_code" : {
+            "compound_code" : "2GPG+QV Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GPG+QV"
+         },
+         "reference" : "ChIJd8gpy7eEXjkRyvge6ebzjrs",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "2/, Hiranya Complex, Sardar Patel Chowk, Vastrapur, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0257215,
+               "lng" : 72.52806319999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02708343029151,
+                  "lng" : 72.52938028029151
+               },
+               "southwest" : {
+                  "lat" : 23.02438546970851,
+                  "lng" : 72.5266823197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Kells",
+         "place_id" : "ChIJv2P_Xs6EXjkRNIivao-uSZk",
+         "rating" : 5,
+         "reference" : "ChIJv2P_Xs6EXjkRNIivao-uSZk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "New York Tower A, Thaltej Char Rasta S G Road, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.04382679999999,
+               "lng" : 72.5286583
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0452378802915,
+                  "lng" : 72.5300374302915
+               },
+               "southwest" : {
+                  "lat" : 23.0425399197085,
+                  "lng" : 72.52733946970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Park Annex",
+         "place_id" : "ChIJ376Er7GEXjkRJgEiDKKHYFU",
+         "plus_code" : {
+            "compound_code" : "2GVH+GF Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GVH+GF"
+         },
+         "reference" : "ChIJ376Er7GEXjkRJgEiDKKHYFU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "73, SUNRISE PARK OPP. SANGATHAN SOCIETY, B/H. HOTEL PARK RESIDENCY, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.032853,
+               "lng" : 72.5316091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03420198029151,
+                  "lng" : 72.53295808029151
+               },
+               "southwest" : {
+                  "lat" : 23.0315040197085,
+                  "lng" : 72.5302601197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "THE SERVICE APARTMENT",
+         "place_id" : "ChIJq6obcMiEXjkRYlCXnSKRopY",
+         "plus_code" : {
+            "compound_code" : "2GMJ+4J Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GMJ+4J"
+         },
+         "reference" : "ChIJq6obcMiEXjkRYlCXnSKRopY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "opposite Shalby Hospital, 3 Parth Bunglow, opposite Shalby Hospital, Sarkhej - Gandhinagar Highway, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0370559,
+               "lng" : 72.53117
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0383730302915,
+                  "lng" : 72.5324896802915
+               },
+               "southwest" : {
+                  "lat" : 23.0356750697085,
+                  "lng" : 72.52979171970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Mitesh Medical Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113404951939366980801\"\u003eSurjit Mohanty\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ3mcVnGx0HdYPi0Qfr3sAOOJP4lsi09Vg8gFit8n1ofcEeYhkJnAdVPLwtP3ZQnnqCokdn53GceiwmhkVue9GFa53-civh0jdyKsniMrS_KzI9CCmZ5gH-KbGeloebGPDu5IfcwtrYJRx9KH8rcBUcp2KBFrZPB7piaTYGCSMscldu",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJd8gpy7eEXjkRdUa02F4Be2A",
+         "plus_code" : {
+            "compound_code" : "2GPJ+RF Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GPJ+RF"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJd8gpy7eEXjkRdUa02F4Be2A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "drugstore",
+            "pharmacy",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Vishnu Complex, 1,2, Main Road, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0355979,
+               "lng" : 72.5249657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0369443802915,
+                  "lng" : 72.52613478029151
+               },
+               "southwest" : {
+                  "lat" : 23.0342464197085,
+                  "lng" : 72.52343681970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pelican",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJOQAAwLWEXjkR80JAolCe8DE",
+         "plus_code" : {
+            "compound_code" : "2GPF+6X Ahmedabad, Gujarat, India",
+            "global_code" : "7JMJ2GPF+6X"
+         },
+         "reference" : "ChIJOQAAwLWEXjkR80JAolCe8DE",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "213, Advait Complex, Near Sandesh Press,, Vastrapur, Ahmedabad"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0359559,
+               "lng" : 72.52941389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0373056302915,
+                  "lng" : 72.53067353029149
+               },
+               "southwest" : {
+                  "lat" : 23.0346076697085,
+                  "lng" : 72.52797556970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Crimson",
+         "permanently_closed" : true,
+         "place_id" : "ChIJd8gpy7eEXjkR69Zs5VBuLrs",
+         "reference" : "ChIJd8gpy7eEXjkR69Zs5VBuLrs",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "1, Chitrakut, Judges Bunglow, Vastrapur, Vastrapur, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0338973,
+               "lng" : 72.5286167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03777607214774,
+                  "lng" : 72.53196791314491
+               },
+               "southwest" : {
+                  "lat" : 23.0298208618217,
+                  "lng" : 72.52520607793124
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "Mahavir Nagar society",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114216589653894026751\"\u003eDhrupesh Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJM0JlyzzkaCmQT-C2AIiIgTPEuKZjTcl6-QBZax8qulEtOPU4cg19onwzrulUZBNsrmIw4kyHjPZQ-BAD7xdbB450paxIvdICNBV2TailbWMtO1AGb870DXZxSG7iAKjTtV09VDB8Mtw9H6Nw-x-QZbFVkOfrVaulVzHtj5FXKwgUr",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJZdf5OciEXjkRg09_BsA7WOw",
+         "reference" : "ChIJZdf5OciEXjkRg09_BsA7WOw",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_2", "sublocality", "political" ],
+         "vicinity" : "Mahavir Nagar society"
+      }
+   ],
+   "status" : "OK"
+}

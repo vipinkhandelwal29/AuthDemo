@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">place</string>
+    <string name="facebook_app_id">3732271160226150</string>
+    <string name="fb_login_protocol_scheme">fb3732271160226150</string>
+    <string name="logout_fb">Logout from Facebook</string>
+    <string name="logout_google">Logout from Google</string>
+</resources>
