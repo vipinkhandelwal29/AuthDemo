@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
 
     <data>
 
         <variable
             name="placeDetail"
-            type="bean.PlaceBean" />
+            type="com.example.place.bean.PlaceBean" />
     </data>
 
 
@@ -33,20 +32,20 @@
                 android:id="@+id/ivUserImage"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
-                android:layout_marginStart="16dp"
+                android:layout_marginStart="10dp"
                 android:transitionName="photo"
-                app:layout_constraintBottom_toBottomOf="@+id/txtAddress"
+                app:layout_constraintBottom_toBottomOf="@+id/tvAddress"
                 app:layout_constraintDimensionRatio="1"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="@+id/txtName" />
+                app:layout_constraintTop_toTopOf="@+id/tvName" />
 
             <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/txtName"
+                android:id="@+id/tvName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="4dp"
-
+                android:hint="Hotel Name"
                 android:textColor="@color/black"
                 android:textSize="16sp"
                 android:textStyle="bold"
@@ -54,69 +53,71 @@
                 app:layout_constraintTop_toTopOf="parent" />
 
             <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/txtGender"
+                app:layout_constraintTop_toTopOf="@id/tvBusiness"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginEnd="10dp"
+                android:id="@+id/tvMoreInfo"
+                android:text = " moreInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+            <androidx.appcompat.widget.AppCompatRatingBar
+                android:id="@+id/ratingBar"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_marginEnd="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:isIndicator="true"
+                android:numStars="5"
+                android:stepSize="0.1"
+                app:layout_constraintBottom_toBottomOf="@id/tvName"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/tvName" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvBusiness"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
-
+                android:hint="business_status"
                 android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@+id/txtName"
-                app:layout_constraintTop_toBottomOf="@+id/txtName" />
+                app:layout_constraintStart_toStartOf="@+id/tvName"
+                app:layout_constraintTop_toBottomOf="@+id/tvName" />
 
 
             <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/txtAddress"
+                android:id="@+id/tvOpen"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
-                android:layout_marginEnd="16dp"
+                android:ellipsize="end"
+                android:hint="opening hours"
                 android:maxLines="1"
                 android:textSize="16sp"
-                android:ellipsize="end"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="@+id/txtName"
-                app:layout_constraintTop_toBottomOf="@+id/txtGender"
-                app:layout_constraintBottom_toBottomOf="parent"/>
+                app:layout_constraintBottom_toTopOf="@+id/tvAddress"
+                app:layout_constraintStart_toStartOf="@+id/tvName"
+                app:layout_constraintTop_toBottomOf="@id/tvBusiness" />
 
-           <!-- <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/btnEdit"
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvAddress"
                 android:layout_width="0dp"
-                android:layout_height="40dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="16dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
                 android:layout_marginEnd="10dp"
-                android:layout_marginBottom="16dp"
-                android:background="@drawable/btn_shape"
-                android:text="Edit"
-                android:textColor="#ffffff"
+                android:layout_marginBottom="4dp"
+                android:ellipsize="end"
+                android:hint="Vicinity Address"
+                android:maxLines="1"
+                android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/btnDelete"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/txtAddress" />
-
-            <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/btnDelete"
-                android:layout_width="0dp"
-                android:layout_height="40dp"
-                android:layout_marginStart="10dp"
-                android:layout_marginEnd="16dp"
-                android:background="@drawable/btn_shape"
-                android:text="Delete"
-                android:textColor="@color/white"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toEndOf="@+id/btnEdit"
-                app:layout_constraintTop_toTopOf="@+id/btnEdit" />-->
+                app:layout_constraintStart_toStartOf="@+id/tvName"
+                app:layout_constraintTop_toBottomOf="@+id/tvOpen" />
+
+
         </androidx.constraintlayout.widget.ConstraintLayout>
 
-        <View
-            android:id="@+id/view"
-            android:layout_width="0dp"
-            android:layout_height="1dp"
-            android:layout_marginTop="10dp"
-            android:background="@color/black"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/btnDelete">
-
-        </View>
     </androidx.cardview.widget.CardView>
 </layout>

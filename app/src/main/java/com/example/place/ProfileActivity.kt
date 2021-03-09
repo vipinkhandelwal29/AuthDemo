@@ -2,7 +2,6 @@ package com.example.place
 
 import android.content.Intent
 import android.content.SharedPreferences
-import android.os.Bundle
 import android.preference.PreferenceManager
 import android.util.Log
 import android.view.MenuItem
@@ -10,10 +9,11 @@ import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-import androidx.appcompat.app.AppCompatActivity
-import bean.PlaceBean
-import bean.PlaceSerializedBean
-import com.example.place.databinding.ActivityLoginBinding
+import androidx.constraintlayout.widget.Placeholder
+import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.place.adapter.PlaceAdapter
+import com.example.place.bean.PlaceBean
+import com.example.place.bean.PlaceSerializedBean
 import com.example.place.databinding.ActivityProfileBinding
 import com.facebook.AccessToken
 import com.facebook.Profile
@@ -28,6 +28,8 @@ class ProfileActivity : BaseActivity<ActivityProfileBinding>() {
     private lateinit var globalPref: SharedPreferences
     private lateinit var textView: TextView
     private lateinit var sharedLogoutBtn: Button
+    private var adapter: PlaceAdapter? = null
+    private val dataList = ArrayList<PlaceBean>()
 
 
     override fun getLayoutId() = R.layout.activity_profile
@@ -46,12 +48,16 @@ class ProfileActivity : BaseActivity<ActivityProfileBinding>() {
             showLoginTypeInfo(it)
 
 
-                //binding.recyclerview.adapter = adapter
 
+
+            val manager = LinearLayoutManager(this)
+            binding.recyclerview.layoutManager = manager
+
+            binding.recyclerview.adapter = adapter
 
             val data = readFromAsset()
-            val jsonPrase = fromJson(data)
-            Log.d("==>jsonPrase", "$jsonPrase")
+           /* val jsonPrase = fromJson(data)
+            Log.d("==>jsonPrase", "$jsonPrase")*/
             val gson = toGson(data)
             Log.d("==>gson", "$gson")
         }
@@ -62,9 +68,9 @@ class ProfileActivity : BaseActivity<ActivityProfileBinding>() {
     }
 
 
-    private fun fromJson(data: String): PlaceSerializedBean {
+   /* private fun fromJson(data: String): PlaceSerializedBean {
         return Gson().fromJson(data, PlaceSerializedBean::class.java)
-    }
+    }*/
 
     private fun readFromAsset(): String {
         val filename = "places.json"

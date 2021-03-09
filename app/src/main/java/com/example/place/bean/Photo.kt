@@ -1,4 +1,4 @@
-package bean
+package com.example.place.bean
 
 import com.google.gson.annotations.SerializedName
 

@@ -1,8 +1,8 @@
-package bean
+package com.example.place.bean
 
 import com.google.gson.annotations.SerializedName
 
-data class Northeast(
+data class Southwest(
     @SerializedName("lat") val lat: Double,
     @SerializedName("lng") val lng: Double
 )
